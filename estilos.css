@@ -20,6 +20,10 @@ body
 	font-size: 16px;
 	margin: 0;
 }
+footer
+{
+	
+}
 header
 {
 	background: #434343;
@@ -133,6 +137,10 @@ nav ul #publicar_nav a:after
 	right: 0;
 	top: 0;
 
+}
+#bienvenida
+{
+	display: none;
 }
 #contenido
 {
