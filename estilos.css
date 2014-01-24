@@ -22,7 +22,12 @@ body
 }
 footer
 {
-	
+	background: #434343;
+	color: #a7a7a7;
+	padding: 1em 0;
+	text-align: center;
+	width: 100%;
+
 }
 header
 {
